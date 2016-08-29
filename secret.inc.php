@@ -1,0 +1,5 @@
+<?php 
+
+
+//Google reCAPTCHA
+define('GOOGLE_SECRET', '6LcQ0CQTAAAAAB6V45JJBdyvtWUUbYiUBqDCaN_N');
